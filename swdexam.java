@@ -47,7 +47,7 @@ public class swdexam {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 3;
 
                         int index = search(arr, n, x);
 
